@@ -5,7 +5,7 @@ Develop and simulate autonomous navigation logic for a path following Parrot Mam
 
 ## Details
 - Designed and simulated a fully autonomous drone in Simulink using the Parrot Mambo, building custom flight logic, sensing, and control.
-- Created an image processing pipeline for thresholding, filtering, and binary path geometry extraction for navigation decisions.
+- Utilised Computer vision and image processing to create a pipeline for thresholding, filtering, and binary path geometry extraction for navigation decisions.
 - Implemented PID control with autonomous turning, hovering, landing, and line-loss recovery in the 3D simulation environment.
 
 ## Tools Used
