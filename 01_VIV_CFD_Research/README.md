@@ -12,4 +12,4 @@ Investigate unsteady aerodynamic loads and vortex shedding behavior in commercia
 ANSYS Fluent, ANSYS Mechanical, MATLAB
 
 ## Results
-![Mesh](Screenshot 2025-11-11 101818.png)
+![Mesh](mesh.png)
