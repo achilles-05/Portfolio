@@ -12,4 +12,16 @@ Develop and simulate autonomous navigation logic for a path following Parrot Mam
 MATLAB, Simulink, Onramp
 
 ## Result
+![1](1.png)
+
+![](2.png)
+
+![1](3.png)
+
+![1](4.png)
+
+![1](5.png)
+
+![1](6.png)
+
 
