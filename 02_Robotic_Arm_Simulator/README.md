@@ -12,3 +12,4 @@ Simulate inverse kinematics and motion planning for a 2-DOF robotic arm.
 Python, NumPy, Matplotlib
 
 ## Results
+![gui](gui.png)
