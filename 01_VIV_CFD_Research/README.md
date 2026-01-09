@@ -7,6 +7,7 @@ Investigate unsteady aerodynamic loads and vortex shedding behavior in commercia
 - Set up URANS/DES simulations in ANSYS Fluent and analyzed turbulence modelling
 - Generated and validated high-quality meshes, conducted mesh study, successfully implemented dynamic meshing and FSI structural modelling
 - Worked on lift/drag time histories and flow structures to produce load distributions for further analysis
+- Paper abstract accepted in ICSV32
 
 ## Tools Used
 ANSYS Fluent, ANSYS Mechanical, MATLAB
