@@ -19,6 +19,6 @@ ANSYS Fluent, ANSYS Mechanical, MATLAB
 ![VIV](viv_contours.png)
 ![setup](setup.png)
 ![Mesh](mesh.png)
-![Poster](poster.png)
+![Poster](Poster.pdf)
 
 
