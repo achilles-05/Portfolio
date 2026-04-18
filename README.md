@@ -3,7 +3,8 @@ This repository contains selected mechanical and aerospace engineering projects
 demonstrating experience in CFD, mechanical design, and algorithmic development.
 
 ## Projects
-- Vortex-Induced Vibrations (CFD, URANS/DES)
+- Vortex-Induced Vibrations Research Paper ICSV32 (ANSYS Fluent)
+- BITS Pilani F1 Rear Wing Design & CFD Challenge (ANSYS Fluent)
 - Robotic Arm Simulator (Python)
 - Mechanical Design of an Urban Rescue Robot (Fusion 360)
 - Autonomous Drone Navigation (Simulink concept)
