@@ -1,7 +1,7 @@
 # Vortex-Induced Vibrations (CFD)
 
 ## Objective
-Investigated unsteady aerodynamic loads caused by vortex shedding behavior in commercial large scale 15MW wind turbine blades in order to recommend mitigation and pitching strategies. 
+Paper accepted at International Congress of Sound and Vibrations, Istanbul, ICSV32. Investigated unsteady aerodynamic loads caused by vortex shedding behavior in commercial large scale 15MW wind turbine blades in order to recommend mitigation and pitching strategies. 
 
 ## Details
 - Set up URANS/DES simulations in ANSYS Fluent with dynamic meshing and analyzed turbulence modelling.
@@ -10,7 +10,6 @@ Investigated unsteady aerodynamic loads caused by vortex shedding behavior in co
 - Perfomed ANSYS Mechanical analysis of obtained lift and drag loads on modelled blade.
 - Did parametric study of lift and drag across 5 wind speeds and 5 pitch angles for root stress evaluation.
 - Applied ML techniques to smartly predict behaviour at any condition and efficiently recommend pitching strategy for mitigation of VIV.
-- Paper abstract accepted in ICSV32
 
 ## Tools Used
 ANSYS Fluent, ANSYS Mechanical, MATLAB
