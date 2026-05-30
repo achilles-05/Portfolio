@@ -27,9 +27,8 @@ goal of contributing to next-generation UAV and wind energy technology at a glob
 ## Key Achievements
 
 | | |
-|---|---|
 | 📄 **ICSV32 Published Researcher** | Accepted at 32nd Intl. Congress on Sound & Vibration, Istanbul 2026 - 10/10 Reviewer scores |
-| 🥇 **WorldQuant Brain - Gold Level** | Ranked **27Xrd in India**, **3,4XXth globally** across the WorldQuant Challenge |
+| 🥇 **WorldQuant Brain - Gold Level** | Ranked 27X in India, 3,4XX globally across the WorldQuant Challenge |
 | 📊 **WorldQuant Research Consultant** | Appointed Research Consultant, WorldQuant Brain, 2026 - currently active |
 | 🏆 **AI Student of the Year - 1st Place** | Perfect 100/100 evaluation score, Mechanics & Aerospace category, 2025 |
 | 🏆 **IEEE Robotics - 1st Place** | Urban Rescue Bot CAD Design Competition, 2025 |
