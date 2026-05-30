@@ -1,6 +1,6 @@
-# WorldQuant Alpha Competition (International Quant Championship - IQC)
+# WorldQuant International Quant Championship - IQC2026
 
-## 🏆 Performance & Achievements
+## 🏆 Achievements
 - **Global Rank:** 3,4XX
 - **National Rank:** 27X
 - **Stage 1 Result:** Passed (Top 2% out of 150,000 participants)
