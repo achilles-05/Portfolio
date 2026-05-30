@@ -1,12 +1,10 @@
-# Shreeji Kumawat — Engineering Portfolio
+# Shreeji Kumawat - Engineering Portfolio
 
 ### Mechanical & Aerospace Engineer | CFD • Aeroelastics • Autonomous Systems | Published Researcher
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shreejik-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shreejik)
 [![Email](https://img.shields.io/badge/Email-shreejikumawat@gmail.com-red?style=flat&logo=gmail)](mailto:shreejikumawat@gmail.com)
 [![Portfolio](https://img.shields.io/badge/GitHub-achilles--05-black?style=flat&logo=github)](https://github.com/achilles-05)
-
----
 
 ## About Me
 
@@ -19,29 +17,27 @@ I have active industry experience at WindStream Technologies (CFD consultancy fo
 helical VAWTs) and WorldQuant Brain (quantitative alpha research), and previously at
 Feynman Aerospace and Skyline Space. My research on vortex-induced vibrations in
 15 MW offshore wind turbine blades has been accepted at the 32nd International
-Congress on Sound and Vibration (ICSV32), Istanbul, July 2026 — placing my work
+Congress on Sound and Vibration (ICSV32), Istanbul, July 2026 - placing my work
 among fewer than 2% of Indian submissions accepted to this conference.
 
 My long-term focus is advanced aerodynamics and energy systems engineering, with the
 goal of contributing to next-generation UAV and wind energy technology at a global level.
 
----
 
 ## Key Achievements
 
 | | |
 |---|---|
-| 📄 **ICSV32 Published Researcher** | Accepted at 32nd Intl. Congress on Sound & Vibration, Istanbul 2026 — Top 2% of Indian submissions |
-| 🥇 **WorldQuant Brain — Gold Level** | Ranked **283rd in India**, **3,400th globally** across the WorldQuant Challenge |
-| 📊 **WorldQuant Research Consultant** | Appointed Research Consultant, WorldQuant Brain, 2026 — currently active |
-| 🏆 **AI Student of the Year — 1st Place** | Perfect 100/100 evaluation score, Mechanics & Aerospace category, 2025 |
-| 🏆 **IEEE Robotics — 1st Place** | Urban Rescue Bot CAD Design Competition, 2025 |
-| 🎯 **BITS Pilani APOGEE — National Finalist** | Top 10, F1 Rear Wing Airfoil Design Challenge 2026 |
-| 🌍 **IAAC — AIR 3, Gold Honor** | International Astrophysics & Astronomy Competition, 2022 |
-| ⭐ **CGPA 9.5/10** | Mahindra University — Batch Rank 1, Class of 2024 |
+| 📄 **ICSV32 Published Researcher** | Accepted at 32nd Intl. Congress on Sound & Vibration, Istanbul 2026 - 10/10 Reviewer scores |
+| 🥇 **WorldQuant Brain - Gold Level** | Ranked **27Xrd in India**, **3,4XXth globally** across the WorldQuant Challenge |
+| 📊 **WorldQuant Research Consultant** | Appointed Research Consultant, WorldQuant Brain, 2026 - currently active |
+| 🏆 **AI Student of the Year - 1st Place** | Perfect 100/100 evaluation score, Mechanics & Aerospace category, 2025 |
+| 🏆 **IEEE Robotics - 1st Place** | Urban Rescue Bot CAD Design Competition, 2025 |
+| 🎯 **BITS Pilani APOGEE - National Finalist** | Top 10 Nationally, F1 Rear Wing Airfoil Design Challenge 2026 |
+| 🌍 **IAAC - AIR 3, Gold Honor** | International Astrophysics & Astronomy Competition, 2022 |
+| ⭐ **CGPA 9.5/10** | Mahindra University - Batch Rank 1, Class of 2024 |
 | 💰 **Merit Scholarship** | Rs. 3 Lakhs awarded for academic excellence, Mahindra University |
 
----
 
 ## Technical Skills
 
@@ -60,7 +56,6 @@ goal of contributing to next-generation UAV and wind energy technology at a glob
 **Quantitative & Data**
 `Statistical Modelling` `Time-Series Analysis` `Alpha Research` `Signal Generation` `Backtesting`
 
----
 
 ## Projects
 
@@ -75,7 +70,6 @@ strategy reducing peak flap-wise stresses by ~20%.
 > 📄 **Accepted at ICSV32 — 32nd International Congress on Sound and Vibration,
 > Istanbul, Turkey, July 2026**
 
----
 
 ### 02 · Robotic Arm Inverse Kinematics Simulator
 **`Python` `Inverse Kinematics` `GUI` `Path Planning`**
@@ -84,7 +78,6 @@ Full inverse kinematics simulator for a two-joint robotic arm with GUI-driven co
 real-time animation, obstacle avoidance, and multi-path planning. 900+ line codebase.
 Awarded **1st Place and perfect 100/100** at the AI Student of the Year Hackathon 2025.
 
----
 
 ### 03 · Urban Rescue Bot — CAD Design
 **`Fusion 360` `Mechanical Design` `Robotics`**
@@ -95,7 +88,6 @@ Enabled terrain traversal, payload delivery, and modular tool assembly.
 
 > 🏆 **1st Place — IEEE Robotics Competition, 2025**
 
----
 
 ### 04 · Autonomous Visual Navigation Drone
 **`MATLAB` `Simulink` `PID Control` `Image Processing`**
@@ -106,7 +98,6 @@ navigation control.
 
 > 🎯 **Qualified Round 1 nationally — MATLAB Minidrone Competition 2025**
 
----
 
 ### 05 · ML Time-Series Forecasting for Engineering Data
 **`Python` `Machine Learning` `Time-Series Analysis`**
@@ -115,7 +106,6 @@ Machine learning pipeline for time-series forecasting applied to engineering sen
 Covers feature engineering, model selection, and validation for predictive maintenance
 and performance monitoring applications.
 
----
 
 ### 06 · F1 Rear Wing Design & CFD Validation
 **`ANSYS Fluent` `Aerodynamics` `CFD` `Airfoil Design`**
@@ -126,7 +116,6 @@ constraints. Achieved Cl = 3.8, fully validated through CFD analysis.
 
 > 🎯 **Top 10 National Finalist — BITS Pilani APOGEE Airfoil Design Challenge 2026**
 
----
 
 ### 07 · Satellite Imaging Scheduler — LEO Optimisation
 **`Python` `Optimisation` `Scheduling Algorithms` `TSP`**
@@ -135,9 +124,7 @@ Satellite imaging scheduling algorithm for LEO constellation management over nor
 Italy. Implemented off-nadir threshold filtering, tile reachability analysis, and TSP 2-opt
 quaternion minimisation for momentum-efficient scheduling.
 
-> Developed during a 48-hour hackathon
-
----
+> Developed during a 48-hour hackathon and achieved highest theoretical score of 1.28
 
 ### 08 · WorldQuant Brain — Alpha Research
 **`Quantitative Finance` `Statistical Modelling` `Python` `Time-Series Analysis`**
@@ -149,7 +136,6 @@ signal generation, and time-series analysis across global financial datasets.
 > 🥇 **Gold Level — WorldQuant Challenge | Ranked 283rd in India, 3,400th Globally**
 > 📊 **Appointed Research Consultant, WorldQuant Brain, 2026 — Currently Active**
 
----
 
 ## Industry Experience
 
@@ -177,19 +163,6 @@ Transfer Lab (immersion cooling simulation for Li-Ion battery packs).
 **Extrive Innovations Pvt. Ltd.** — *CAD Intern* `Oct – Dec 2024`
 AutoCAD Inventor modelling for exosuit manufacturing.
 
----
-
-## Research & Recognition
-
-**WorldQuant Brain — Gold Level Achiever & Appointed Research Consultant**
-Ranked 283rd in India and 3,400th globally in the WorldQuant Challenge. Appointed
-Research Consultant at WorldQuant Brain (2026), currently conducting active
-quantitative alpha research alongside engineering studies.
-
-**International Quant Championship 2026 — Top 20% Globally**
-Stage 1 qualifier among top 20% of teams worldwide.
-
----
 
 *Currently based in Hyderabad, India. Open to research collaborations,
 internship opportunities, and conversations about aerospace, CFD, and
