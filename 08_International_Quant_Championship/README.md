@@ -18,10 +18,10 @@ This contains my 40 best-performing alphas generated during the WorldQuant Inter
 
 ## 🔬 Core Methodologies & Strategies
 
-### 1. The Kakushadze Protocol (Academic Outperformance)
-### 2. Dynamic Group Neutralization
-### 3. Pure Price-Volume Orthogonality
-### 4. Advanced Regression & Cross-Sectional Scaling
+1. The Kakushadze Protocol (Academic Outperformance)
+2. Dynamic Group Neutralization
+3. Pure Price-Volume Orthogonality
+4. Advanced Regression & Cross-Sectional Scaling
 
 ## 🚀 Results & Outcomes
 - **Overcoming the Correlation Wall:** Systematically solved the 0.75 correlation threshold rejection trap by analyzing thousands of simulation passes and fails to isolate the exact operators causing correlation flags.
