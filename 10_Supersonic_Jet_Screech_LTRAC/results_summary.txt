@@ -1,0 +1,21 @@
+SUPERSONIC JET SCREECH - RESULTS SUMMARY
+============================================
+!! generated from PLACEHOLDER data - rerun after replacing data/ !!
+Nozzle D = 10 mm, T0 = 293 K, Welch nperseg = 16384, Hann, 50% overlap
+
+  NPR     Mj   Uj m/s    f_s Hz    Tam Hz   err%     St  peak dB  prom dB   OASPL
+  2.6  1.253    375.0     19627     18428    6.5  0.536    105.6     38.3   123.4
+            harmonic 2:    39238 Hz (2.00 f_s), 94.8 dB/Hz
+            harmonic 3:    58862 Hz (3.00 f_s), 84.8 dB/Hz
+  3.0  1.358    398.2     16198     15331    5.7  0.425    110.1     37.9   127.6
+            harmonic 2:    32412 Hz (2.00 f_s), 99.0 dB/Hz
+            harmonic 3:    48612 Hz (3.00 f_s), 89.2 dB/Hz
+  3.4  1.447    416.8     13236     13509   -2.0  0.339    114.0     42.7   129.8
+            harmonic 2:    26475 Hz (2.00 f_s), 102.8 dB/Hz
+            harmonic 3:    39725 Hz (3.00 f_s), 92.0 dB/Hz
+  3.8  1.524    432.0     11803     12254   -3.7  0.298    112.1     38.2   129.6
+            harmonic 2:    23612 Hz (2.00 f_s), 101.2 dB/Hz
+            harmonic 3:    35412 Hz (3.00 f_s), 90.4 dB/Hz
+  4.2  1.592    445.0     10932     11312   -3.4  0.274    104.8     29.8   128.9
+            harmonic 2:    21762 Hz (1.99 f_s), 94.1 dB/Hz
+            harmonic 3:    32800 Hz (3.00 f_s), 85.9 dB/Hz

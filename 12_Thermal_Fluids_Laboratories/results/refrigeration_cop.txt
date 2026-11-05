@@ -1,0 +1,12 @@
+VAPOUR COMPRESSION REFRIGERATION (R134a)
+========================================
+!! generated from PLACEHOLDER data - rerun after replacing data/ !!
+ t min  T_ev C  T_cd C RE kJ/kg   Q_e W  m g/s COP_act COP_cyc  COP_C  eta_s
+    10    -0.2    40.3    153.1     725   4.73    1.16    3.86   6.74   0.68
+    20    -1.4    41.2    151.4     725   4.79    1.18    3.67   6.38   0.69
+    30    -2.2    42.1    149.6     725   4.84    1.14    3.47   6.12   0.69
+    40    -3.7    42.7    148.0     725   4.90    1.13    3.30   5.81   0.70
+    50    -4.8    43.6    146.2     725   4.95    1.14    3.15   5.55   0.70
+    60    -6.2    44.5    144.6     725   5.01    1.09    3.01   5.26   0.71
+
+mean actual COP 1.14, cycle COP 3.41, Carnot 5.98, relative efficiency 19% of Carnot

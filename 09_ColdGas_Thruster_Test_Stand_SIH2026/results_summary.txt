@@ -1,0 +1,39 @@
+COLD-GAS THRUSTER STATIC TEST - RESULTS SUMMARY
+====================================================
+!! generated from PLACEHOLDER data - rerun after replacing data/ !!
+Load cell calibration: R^2 = 0.99998, sensitivity = 23.75 uN/count
+
+Throat inspection:
+  C   nominal 3.00 mm, measured 2.94 mm, Ra 6.8 um
+  CD  nominal 3.00 mm, measured 2.92 mm, Ra 7.4 um
+
+Sweep (mean of 3 runs):
+  noz   Pset    Pch   F_meas  F_ideal    dF%   m_meas  m_ideal
+  C      2.0   1.89    1.770    1.984   10.8     4.64     5.03
+  C      3.0   2.86    2.588    2.880   10.1     6.12     6.70
+  C      4.0   3.78    3.412    3.777    9.7     7.61     8.37
+  C      5.0   4.73    4.201    4.673   10.1     9.12    10.04
+  C      6.0   5.66    4.958    5.569   11.0    10.76    11.71
+  C      7.0   6.63    5.818    6.465   10.0    12.11    13.37
+  C      8.0   7.57    6.667    7.362    9.4    13.58    15.04
+  CD     2.0   1.87    1.550    1.782   13.0     4.57     5.03
+  CD     3.0   2.85    2.478    2.796   11.4     6.00     6.70
+  CD     4.0   3.76    3.317    3.810   12.9     7.61     8.37
+  CD     5.0   4.73    4.296    4.824   10.9     8.92    10.04
+  CD     6.0   5.67    5.173    5.838   11.4    10.57    11.71
+  CD     7.0   6.60    6.024    6.852   12.1    11.95    13.37
+  CD     8.0   7.55    6.945    7.866   11.7    13.64    15.04
+
+Shortfall at 7 barg set pressure:
+  Converging: F = 5.82 N vs 6.47 N ideal -> 10.0% short
+     regulator droop     5.1%  (chamber only reached 6.63 barg)
+     throat Cd = 0.949   4.8%
+     other losses        0.0%
+     measured Cf = 1.077, design exit Mach = 1.00
+  Converging-Diverging: F = 6.02 N vs 6.85 N ideal -> 12.1% short
+     regulator droop     6.0%  (chamber only reached 6.60 barg)
+     throat Cd = 0.940   5.6%
+     other losses        0.5%
+     measured Cf = 1.120, design exit Mach = 2.06
+
+Firing trace (CD, 7 barg): steady thrust 5.99 +/- 0.02 N at 6.62 barg chamber
