@@ -37,7 +37,4 @@ SolidWorks, Python (NumPy, Pandas, Matplotlib), Arduino, 3D Printing, Machining
 
 ![Stand](stand_schematic.png)
 ![Nozzles](nozzle_profiles.png)
-![Thrust](thrust_massflow_vs_pressure.png)
-![Shortfall](shortfall_breakdown.png)
-![Firing](firing_trace_CD.png)
-![Calibration](loadcell_calibration.png)
+
