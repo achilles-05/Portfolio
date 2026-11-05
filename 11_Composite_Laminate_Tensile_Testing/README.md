@@ -35,5 +35,4 @@ Universal Testing Machine, Vacuum pump, Python (NumPy, Pandas, Matplotlib)
 - Most coupons failed in the gauge section (LGM / XGM), one of each material failed at the tab.
 
 ![Layup](layup_and_coupon.png)
-![Stress strain](stress_strain.png)
-![Comparison](property_comparison.png)
+
