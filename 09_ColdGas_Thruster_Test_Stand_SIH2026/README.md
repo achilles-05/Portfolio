@@ -21,12 +21,6 @@ Smart India Hackathon SIH2026 (Aerospace Category). Design and build a static te
 5. Measure printed throat diameter with pin gauges and surface roughness after testing.
 6. Run `thrust_analysis.py` to reduce the data and compare with theory.
 
-## Files
-- `thrust_analysis.py` - data reduction, isentropic / choked-flow theory, shortfall breakdown
-- `stand_schematic.py` - plumbing and instrumentation schematic, nozzle profiles
-- `data/` - load cell calibration, pressure sweep, firing trace, throat inspection
-- `results_summary.txt` - output of the analysis
-
 ## Tools Used
 SolidWorks, Python (NumPy, Pandas, Matplotlib), Arduino, 3D Printing, Machining
 
