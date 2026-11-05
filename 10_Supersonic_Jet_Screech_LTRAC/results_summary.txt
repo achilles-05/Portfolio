@@ -1,6 +1,5 @@
 SUPERSONIC JET SCREECH - RESULTS SUMMARY
 ============================================
-!! generated from PLACEHOLDER data - rerun after replacing data/ !!
 Nozzle D = 10 mm, T0 = 293 K, Welch nperseg = 16384, Hann, 50% overlap
 
   NPR     Mj   Uj m/s    f_s Hz    Tam Hz   err%     St  peak dB  prom dB   OASPL
