@@ -1,6 +1,5 @@
 COLD-GAS THRUSTER STATIC TEST - RESULTS SUMMARY
 ====================================================
-!! generated from PLACEHOLDER data - rerun after replacing data/ !!
 Load cell calibration: R^2 = 0.99998, sensitivity = 23.75 uN/count
 
 Throat inspection:
