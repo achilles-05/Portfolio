@@ -18,13 +18,7 @@ Fabricate carbon and glass fibre laminate coupons by hand lay-up and vacuum bagg
 2. Apply peel ply, release film, breather, seal bag and pull vacuum, check for leaks.
 3. Cure, demould, weigh panel, cut and tab coupons.
 4. Measure coupons, test on UTM at 2 mm/min until failure, export load-extension data.
-5. Run `tensile_analysis.py`.
 
-## Files
-- `tensile_analysis.py` - stress-strain reduction, properties, Weibull, plots
-- `vacuum_bag_layup.py` - layup stack and coupon drawing
-- `data/` - coupon dimensions, panel weights, UTM exports for each coupon
-- `results_summary.txt` - output of the analysis
 
 ## Tools Used
 Universal Testing Machine, Vacuum pump, Python (NumPy, Pandas, Matplotlib)
