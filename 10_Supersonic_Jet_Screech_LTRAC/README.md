@@ -33,7 +33,7 @@ LabVIEW, NI DAQ, Python (NumPy, SciPy, Matplotlib)
 
 - Clear screech fundamental at every NPR with harmonics at exactly 2f and 3f, 30 - 43 dB above the broadband noise.
 - Screech frequency drops with NPR as the shock cell spacing grows, within ~6% of Tam's model.
-- Jump in the measured/model ratio between NPR 3.0 and 3.4 points to a change of screech mode (staging).
+
 
 ![PSD](psd_all_NPR.png)
 ![Screech](screech_vs_NPR.png)
