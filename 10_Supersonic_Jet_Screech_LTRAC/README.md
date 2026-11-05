@@ -1,9 +1,9 @@
-# Supersonic Jet Screech Tone Testing - LTRAC, Monash University
+# Supersonic Jet Screech Tone Testing 
 
 **`Python` `LabVIEW` `Aeroacoustics` `Signal Processing` `Compressible Flow`**
 
 ## Objective
-Identify the screech tone of an underexpanded supersonic jet from high-sample-rate microphone data at the Laboratory for Turbulence Research in Aerospace & Combustion (LTRAC), Monash University.
+Identify the screech tone of an underexpanded supersonic jet from high-sample-rate microphone data.
 
 ## Details
 - Underexpanded jet from a 10 mm converging nozzle run at nozzle pressure ratios (NPR) of 2.6 to 4.2.
@@ -17,11 +17,6 @@ Identify the screech tone of an underexpanded supersonic jet from high-sample-ra
 1. Set NPR on the settling chamber, wait for stagnation pressure to settle.
 2. Record microphone channel in LabVIEW for each NPR, export to .lvm.
 3. Run `screech_psd.py` on the exported files in `data/`.
-
-## Files
-- `screech_psd.py` - loading (.lvm / .csv / .npz), Welch PSD, peak picking, Tam model comparison, plots
-- `data/` - microphone recordings, one file per NPR
-- `results_summary.txt` - output of the analysis
 
 ## Tools Used
 LabVIEW, NI DAQ, Python (NumPy, SciPy, Matplotlib)
