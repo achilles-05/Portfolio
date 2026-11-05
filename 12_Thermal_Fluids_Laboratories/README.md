@@ -38,10 +38,10 @@ Python (NumPy, Pandas, Matplotlib, CoolProp), lab test rigs
 |Heat exchanger|Counter flow effectiveness 32% vs 30% parallel at the same flow rates|
 |Refrigeration|Actual COP 1.14, cycle COP 3.4, Carnot 6.0|
 
-!\[Pump](pump\_curve.png)
-!\[Flowmeters](flowmeter\_calibration.png)
-!\[Pipe friction](pipe\_friction.png)
-!\[HX](heat\_exchanger.png)
-!\[HX profile](hx\_temperature\_profile.png)
-!\[VCR](refrigeration\_cop.png)
+![Pump](pump\_curve.png)
+![Flowmeters](flowmeter\_calibration.png)
+![Pipe friction](pipe\_friction.png)
+![HX](heat\_exchanger.png)
+![HX profile](hx\_temperature\_profile.png)
+![VCR](refrigeration\_cop.png)
 
