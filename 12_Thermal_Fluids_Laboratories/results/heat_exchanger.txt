@@ -1,0 +1,14 @@
+CONCENTRIC TUBE HEAT EXCHANGER
+==============================
+
+mode      h/c Lpm    Qh W    Qc W  loss%   LMTD      U   eff%   NTU
+parallel      2/2    1404    1391    1.0  20.43   1143   31.5  0.49
+parallel      2/3    1488    1502   -0.9  21.84   1144   33.4  0.49
+parallel      3/3    1794    1773    1.2  22.06   1351   27.1  0.39
+parallel      3/4    1856    1780    4.1  22.59   1345   28.6  0.39
+counter       2/2    1530    1474    3.6  21.10   1189   34.5  0.51
+counter       2/3    1585    1439    9.2  22.98   1100   35.4  0.47
+counter       3/3    1898    1794    5.5  22.85   1350   28.7  0.39
+counter       3/4    1919    1891    1.4  23.98   1327   28.8  0.38
+
+mean effectiveness: parallel 30.2%, counter 31.8%
