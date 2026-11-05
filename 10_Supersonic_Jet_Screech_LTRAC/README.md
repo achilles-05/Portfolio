@@ -35,6 +35,4 @@ LabVIEW, NI DAQ, Python (NumPy, SciPy, Matplotlib)
 - Screech frequency drops with NPR as the shock cell spacing grows, within ~6% of Tam's model.
 
 
-![PSD](psd_all_NPR.png)
-![Screech](screech_vs_NPR.png)
 ![Spectrogram](spectrogram.png)
